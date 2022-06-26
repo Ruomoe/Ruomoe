@@ -1,6 +1,14 @@
 ### Hi there 👋
-[![Ruomoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruomoe)](https://github.com/Ruomoe)
-[![Ruomoe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruomoe)](https://github.com/Ruomoe)
+
+<a href="https://github.com/Ruomoe">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruomoe&count_private=true&show_icons=true" width="400px"/>
+</a>
+
+<a href="https://github.com/Ruomoe">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruomoe&layout=compact&hide=html,css&count_private=true&hide_border=true" width="400px"/>
+</a>
+
+
 <!--
 **Ruomoe/Ruomoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
